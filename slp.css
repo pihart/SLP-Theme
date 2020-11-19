@@ -67,6 +67,14 @@
     color: var(--avi-tx-lightgreen) !important;
 }
 
+.yellow .media-circle-background-circle {
+    background: var(--avi-bg-yellow) !important;
+}
+
+.yellow .material-icons.material-icons-default.media-circle-content {
+    color: var(--avi-tx-yellow) !important;
+}
+
 .red .media-circle-background-circle {
     background: var(--avi-bg-red) !important;
 }
