@@ -1,7 +1,9 @@
 {
     const s = document.createElement("style");
     s.innerHTML = `:root {
+    --avi-bg-darkblue: #00294e54;
     --avi-bg-blue: #0563b8;
+
     --avi-bg-lightblue: #1e88e54f;
     --avi-bg-lightgreen: #0398623f;
     --avi-bg-red: #bd00444f;
@@ -16,6 +18,11 @@
 .page-menu,
 .btn-primary {
     background: var(--avi-bg-blue) !important;
+}
+
+.claro-standard-layout-page ul.app-nav-left li.active > a,
+.claro-standard-layout-page ul.app-nav-left a:hover {
+    background: var(--avi-bg-darkblue);
 }
 
 .courserow-list-item-content-default:not(.success):not(.danger),
