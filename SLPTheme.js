@@ -15,6 +15,14 @@
     --avi-tx-yellow: #f28600;
 }
 
+.yearline-cap-icon {
+    background: var(--avi-bg-blue);
+}
+
+.yearline-line {
+    border-left-color: var(--avi-bg-blue);
+}
+
 .page-menu,
 .btn-primary {
     background: var(--avi-bg-blue) !important;
