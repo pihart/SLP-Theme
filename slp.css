@@ -46,7 +46,8 @@
 .claro-standard-layout-page .sdl-time-selector .btn,
 .btn-link,
 .notification-item-unread .notification-item-title-fragment,
-.material-icons.material-icons-default.media-circle-content {
+.material-icons.material-icons-default.media-circle-content,
+.goal-summary-text {
     color: var(--avi-tx-lightblue) !important;
 }
 
