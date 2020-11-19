@@ -47,7 +47,8 @@
 .btn-link,
 .notification-item-unread .notification-item-title-fragment,
 .material-icons.material-icons-default.media-circle-content,
-.goal-summary-text {
+.goal-summary-text,
+.grading-policy-link {
     color: var(--avi-tx-lightblue) !important;
 }
 
