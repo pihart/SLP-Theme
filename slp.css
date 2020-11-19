@@ -54,7 +54,8 @@
 .notification-item-unread .notification-item-title-fragment,
 .material-icons.material-icons-default.media-circle-content,
 .goal-summary-text,
-.grading-policy-link {
+.grading-policy-link,
+.token.project-day-to-day-side-nav-item-new-feedback-token {
     color: var(--avi-tx-lightblue) !important;
 }
 
