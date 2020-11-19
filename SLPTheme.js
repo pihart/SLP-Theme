@@ -1,6 +1,6 @@
 {
-    const s = document.createElement("style");
-    s.innerHTML = `:root {
+  const s = document.createElement("style");
+  s.innerHTML = `:root {
     --avi-bg-darkblue: #00294e54;
     --avi-bg-blue: #0563b8;
 
@@ -41,10 +41,31 @@
     color: var(--avi-tx-lightblue) !important;
 }
 
+.media-circle-background-circle {
+    background: var(--avi-bg-lightblue) !important;
+}
+
 .claro-standard-layout-page .sdl-time-selector .btn,
 .btn-link,
-.notification-item-unread .notification-item-title-fragment {
+.notification-item-unread .notification-item-title-fragment,
+.material-icons.material-icons-default.media-circle-content {
     color: var(--avi-tx-lightblue) !important;
+}
+
+.green .media-circle-background-circle {
+    background: var(--avi-bg-lightgreen) !important;
+}
+
+.green .material-icons.material-icons-default.media-circle-content {
+    color: var(--avi-tx-lightgreen) !important;
+}
+
+.red .media-circle-background-circle {
+    background: var(--avi-bg-red) !important;
+}
+
+.red .material-icons.material-icons-default.media-circle-content {
+    color: var(--avi-tx-red) !important;
 }
 
 .courserow-list-item-content-default.success,
@@ -68,5 +89,5 @@
     color: var(--avi-tx-yellow) !important;
 }
 `;
-    document.head.appendChild(s);
+  document.head.appendChild(s);
 }
