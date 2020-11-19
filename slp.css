@@ -39,6 +39,12 @@
     color: var(--avi-tx-lightblue) !important;
 }
 
+.nav-tabs li.active *,
+.nav-tabs li *:hover {
+    color: var(--avi-tx-lightblue) !important;
+    box-shadow: inset 0 -2px 0 var(--avi-tx-lightblue) !important;
+}
+
 .media-circle-background-circle {
     background: var(--avi-bg-lightblue) !important;
 }
