@@ -26,3 +26,7 @@ If you're a Summit student, you're looking for [bookmark.txt].
 [bookmark-raw]: https://raw.githubusercontent.com/pihart/SLP-Theme/main/bookmark.txt
 [random-bookmark]: https://user-images.githubusercontent.com/18153122/99610631-0be94600-29c7-11eb-8aab-f1412af74f4b.png
 [paste-contents]: https://user-images.githubusercontent.com/18153122/99610779-5074e180-29c7-11eb-9d4d-7baa620ec9d4.png
+
+## Development
+
+The code tree is kept flat for ease of use by students and slightly simpler installation instructions.
