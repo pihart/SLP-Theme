@@ -14,11 +14,11 @@
 }
 
 .yearline-cap-icon {
-    background: var(--avi-bg-blue);
+    background: var(--avi-bg-blue) !important;
 }
 
 .yearline-line {
-    border-left-color: var(--avi-bg-blue);
+    border-left-color: var(--avi-bg-blue) !important;
 }
 
 .page-menu,
