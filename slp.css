@@ -45,6 +45,8 @@
     box-shadow: inset 0 -2px 0 var(--avi-tx-lightblue) !important;
 }
 
+.project-agenda-timeline-item-icon-background,
+.project-agenda-timeline-item-line-1,
 .media-circle-background-circle {
     background: var(--avi-bg-lightblue) !important;
 }
@@ -52,6 +54,7 @@
 .claro-standard-layout-page .sdl-time-selector .btn,
 .btn-link,
 .notification-item-unread .notification-item-title-fragment,
+.project-agenda-timeline-item-icon .material-icons.material-icons-default,
 .material-icons.material-icons-default.media-circle-content,
 .goal-summary-text,
 .grading-policy-link,
