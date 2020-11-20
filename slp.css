@@ -22,19 +22,21 @@
 }
 
 .page-menu,
-.btn-primary {
+.btn-primary,
+.megaphone-controls .btn {
     background: var(--avi-bg-blue) !important;
 }
 
 .claro-standard-layout-page ul.app-nav-left li.active > a,
 .claro-standard-layout-page ul.app-nav-left a:hover {
-    background: var(--avi-bg-darkblue);
+    background: var(--avi-bg-darkblue) !important;
 }
 
 .courserow-list-item-content-default:not(.success):not(.danger),
 .focusarea-list-item-content.default,
 .sdl-goal-token:not(.sdl-goal-token-completed) .token,
-.notification-item-unread {
+.notification-item-unread,
+.alert-info {
     background: var(--avi-bg-lightblue) !important;
     color: var(--avi-tx-lightblue) !important;
 }
@@ -58,7 +60,8 @@
 .material-icons.material-icons-default.media-circle-content,
 .goal-summary-text,
 .grading-policy-link,
-.token.project-day-to-day-side-nav-item-new-feedback-token {
+.token.project-day-to-day-side-nav-item-new-feedback-token,
+.alert-info .megaphone-title.app-heading {
     color: var(--avi-tx-lightblue) !important;
 }
 
