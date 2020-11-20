@@ -61,7 +61,8 @@
 .goal-summary-text,
 .grading-policy-link,
 .token.project-day-to-day-side-nav-item-new-feedback-token,
-.alert-info .megaphone-title.app-heading {
+.alert-info .megaphone-title.app-heading,
+.sdl-course-grades .current-grade {
     color: var(--avi-tx-lightblue) !important;
 }
 
@@ -86,7 +87,8 @@
     background: var(--avi-bg-red) !important;
 }
 
-.red .material-icons.material-icons-default.media-circle-content {
+.red .material-icons.material-icons-default.media-circle-content,
+.sdl-course-grades .incomplete {
     color: var(--avi-tx-red) !important;
 }
 
