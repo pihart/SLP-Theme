@@ -13,6 +13,10 @@
     --avi-tx-yellow: #f28600;
 }
 
+a {
+    color: var(--avi-tx-lightblue); /* Not important */
+}
+
 .yearline-cap-icon {
     background: var(--avi-bg-blue) !important;
 }
