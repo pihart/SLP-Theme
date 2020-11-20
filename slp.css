@@ -62,7 +62,8 @@
     color: var(--avi-tx-lightblue) !important;
 }
 
-.green .media-circle-background-circle {
+.green .media-circle-background-circle,
+.project-lesson-media-block-objective .project-lesson-media-block-icon-background-circle {
     background: var(--avi-bg-lightgreen) !important;
 }
 
