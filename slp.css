@@ -48,7 +48,7 @@
     box-shadow: inset 0 -2px 0 var(--avi-tx-lightblue) !important;
 }
 
-.loading-indicator-icon{
+.loading-indicator-icon {
     border-top-color: var(--avi-tx-lightblue) !important;
 }
 
@@ -68,7 +68,8 @@
 .token.project-day-to-day-side-nav-item-new-feedback-token,
 .token.next-opportunity-token a,
 .alert-info .megaphone-title.app-heading,
-.sdl-course-grades .current-grade {
+.sdl-course-grades .current-grade,
+.announcement .call-to-action * {
     color: var(--avi-tx-lightblue) !important;
 }
 
