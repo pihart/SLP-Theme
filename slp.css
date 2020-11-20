@@ -25,7 +25,7 @@
 .btn-primary,
 .megaphone-controls .btn,
 .claro-standard-layout-page .app-page-menu .dropdown-menu,
-.claro-standard-layout-page .app-page-menu .dropdown-toggle {
+.claro-standard-layout-page .app-page-menu .dropdown .dropdown-toggle {
     background: var(--avi-bg-blue) !important;
 }
 
