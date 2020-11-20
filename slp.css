@@ -23,12 +23,14 @@
 
 .page-menu,
 .btn-primary,
-.megaphone-controls .btn {
+.megaphone-controls .btn,
+.claro-standard-layout-page .app-page-menu .dropdown-menu,
+.claro-standard-layout-page .app-page-menu .dropdown-toggle {
     background: var(--avi-bg-blue) !important;
 }
 
-.claro-standard-layout-page ul.app-nav-left li.active > a,
-.claro-standard-layout-page ul.app-nav-left a:hover {
+.claro-standard-layout-page .app-page-menu ul.app-nav-left li.active > a,
+.claro-standard-layout-page .app-page-menu ul.app-nav-left li a:hover {
     background: var(--avi-bg-darkblue) !important;
 }
 
