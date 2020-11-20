@@ -98,14 +98,18 @@
 .focusarea-list-item-content.success,
 .material-icons.icon-green-compare,
 .material-icons.icon-green-check,
-.sdl-goal-token-completed .token {
+.sdl-goal-token-completed .token,
+.score-token.score-success,
+.skill-pill.skill-pill-success {
     background: var(--avi-bg-lightgreen) !important;
     color: var(--avi-tx-lightgreen) !important;
 }
 
 .courserow-list-item-content-default.danger,
 .focusarea-list-item-content.danger,
-.material-icons.icon-red-compare {
+.material-icons.icon-red-compare,
+.score-token.score-danger,
+.skill-pill.skill-pill-danger {
     background: var(--avi-bg-red) !important;
     color: var(--avi-tx-red) !important;
 }
